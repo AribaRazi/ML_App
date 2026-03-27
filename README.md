@@ -53,4 +53,4 @@ Object detection concepts
 This is a beginner-level project created for learning purposes during the internship.
 
 👩‍💻 Author
-Your Name
+Ariba Razi
