@@ -41,6 +41,8 @@ Sync Gradle and install dependencies
 Run the app on:
 Emulator OR
 Physical Android device
+
+```
 🎯 Purpose
 
 This project was built as a codelab exercise to understand:
